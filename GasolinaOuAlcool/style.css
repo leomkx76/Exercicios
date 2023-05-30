@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 10px;
+    border: solid 4px rgb(165, 165, 165);
+    width: 300px;
+    height: 440px;
+    margin: auto;
+    background-color: rgb(119, 185, 103);
+    color: rgb(0, 0, 0);
+    align-items: center;
+}
+
+.titulo{
+    font-size: 22px;
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+    padding: 10px;
+    font-weight: bolder;
+      
+}   
+
+.principalp{
+    font-weight: lighter;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(3, 3, 3);
+}
+
+.principal div{
+    align-self: center;
+    align-items: center;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-weight: bolder;  
+}
+    
+
+
+input{
+    font-weight: bolder;
+    border-radius: 10px;
+    border: solid 4px rgb(165, 165, 165);
+    width: 250px;
+    padding: 10px;
+    background-color: rgb(241, 244, 234);
+}
+
+button{
+    cursor: pointer;
+    color: aliceblue;
+    align-content: center;
+    border-radius: 10px;
+    border: solid 4px rgb(165, 165, 165);
+    width: 280px;
+    padding: 10px;
+    background-color: rgb(38, 54, 1);
+    
+}
+
+
+button:hover{
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    align-content: center;
+    border-radius: 10px;
+    border: solid 4px rgb(31, 31, 31);
+    width: 280px;
+    padding: 10px;
+    background-color: rgb(100, 142, 4);
+}
